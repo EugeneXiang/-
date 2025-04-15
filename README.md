@@ -55,7 +55,7 @@
 
 ## 📮 联系方式 / Contact
 
-- Email: eugene.p.xiang@gmail.com （可选）
+- Email: eugene.p.xiang@gmail.com 
 - GitHub: [(https://github.com/EugeneXiang)]
 
 ---
